@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-import os,sys
+import os
 def mkdir(path):
     # 引入模块
     import os
